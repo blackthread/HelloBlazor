@@ -23,3 +23,13 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+
+# Ignore .vs directory
+.vs/
+
+# Ignore node_modules directory
+node_modules/
+
+# Other existing rules...
+
+
